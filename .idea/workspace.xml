@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30a5858a-e3d9-40a4-8c59-294d145e1c95" name="Changes" comment="Ejercicios">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicio1.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicio3.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/POO/IdeaProjects/Ejercicio8_JimenezM_ParedesC",
     "onboarding.tips.debug.path": "C:/Users/POO/IdeaProjects/Ejercicio8 JimenezM_ParedesC/src/Main.java"
   }
 }]]></component>
